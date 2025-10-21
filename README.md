@@ -1,4 +1,5 @@
-# 💫About Me :
+<!--Banner-->
+![[huyvu2512 Banner Image](https://github.com/user-attachments/assets/36831963-c121-49a3-943f-555ae0c48daf)](https://github.com/user-attachments/assets/36831963-c121-49a3-943f-555ae0c48daf)
 
 <!--Night Owl image-->
 <div>
@@ -20,11 +21,6 @@
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 
 
 
