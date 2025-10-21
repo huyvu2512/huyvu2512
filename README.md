@@ -1,4 +1,9 @@
 # 💫About Me :
+
+<p align="center">
+  <img src="banner.svg" alt="Huy Vũ Banner" width="900">
+</p>
+
 📖 Hiện đang là Sinh Viên Năm Nhất
 📫 Liên hệ: **https://beacons.ai/huyvu2512**
 
