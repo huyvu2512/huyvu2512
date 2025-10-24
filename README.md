@@ -14,12 +14,14 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=huyvu2512&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3> <p align="left"> 
-  <a href="https://github.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> 
-  <a href="https://fb.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> 
-  <a href="https://instagram.com/v.huy2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> 
-  <a href="https://twitter.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a> 
-  <a href="https://www.youtube.com/@huyvu_2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/huyvu2512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="profile-radme-generator" height="30" width="40" /></a>
+  <a href="https://fb.com/huyvu2512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile-radme-generator" height="30" width="40" /></a>
+  <a href="https://instagram.com/v.huy2512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="profile-radme-generator" height="30" width="40" /></a>
+  <a href="https://twitter.com/huyvu2512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="profile-radme-generator" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@huyvu_2512" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="profile-radme-generator" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">GitHub Stats/ GitHub Trophies:</h3> <p align="left"> 
   
