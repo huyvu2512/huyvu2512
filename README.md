@@ -19,7 +19,7 @@
   <a href="https://fb.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> 
   <a href="https://instagram.com/v.huy2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> 
   <a href="https://twitter.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a> 
-  <a href="https://www.youtube.com/huyvu_2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+  <a href="https://www.youtube.com/@huyvu_2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
 <h3 align="left">GitHub Stats/ GitHub Trophies:</h3> <p align="left"> 
   
