@@ -4,12 +4,13 @@
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu2512&theme=algolia)
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=huyvu2512&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=huyvu2512&color=blue&style=for-the-badge)
 
 * 🧑 **Name:** Vũ Quang Huy
 * 🎂 **Birthday:** 25/12/2007
-* 🎓 **School:** First-year student at University of Economics - Technology for Industries (UNETI)
-* 📍 **Home:** Bac Giang
+* 🏠 **Home:** Bac Giang
+* 🎓 **I'm a student of:** [University of Economics - Technology for Industries](https://uneti.edu.vn/) (UNETI).
+* 📫 **Email:** quanghuy25121995@gmail.com
 
 ![](https://github-profile-trophy.vercel.app/?username=huyvu2512&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
