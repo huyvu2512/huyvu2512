@@ -1,17 +1,28 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=huyvu2512&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=huyvu2512&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huyvu2512&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=huyvu2512&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=huyvu2512&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Banner Profile](https://github.com/user-attachments/assets/9d27892e-5441-4d78-9831-49304a16f077)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=huyvu2512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu2512&theme=algolia)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=huyvu2512)
+<img height="auto" src="https://komarev.com/ghpvc/?username=huyvu2512&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+
+* 🧑 **Name:** Vũ Quang Huy
+* 🎂 **Birthday:** 25/12/2007
+* 🎓 **School:** First-year student at University of Economics - Technology for Industries (UNETI)
+* 📍 **Home:** Bac Giang
+
+![](https://github-profile-trophy.vercel.app/?username=huyvu2512&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<h3 align="left">Connect with me:</h3> <p align="left"> 
+  <a href="https://github.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> 
+  <a href="https://fb.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> 
+  <a href="https://instagram.com/v.huy2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> 
+  <a href="https://twitter.com/huyvu2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a> 
+  <a href="https://www.youtube.com/huyvu_2512" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+
+<h3 align="left">GitHub Stats/ GitHub Trophies:</h3> <p align="left"> 
+  
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=huyvu2512&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu2512&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyvu2512&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-contributor-stats.vercel.app/api?username=huyvu2512&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="profile-radme-generator" />
