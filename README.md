@@ -25,7 +25,7 @@
 
 <h3 align="left">GitHub Stats/ GitHub Trophies:</h3> <p align="left"> 
   
-<img align="left" height="auto" width={150} src="https://github-readme-stats.vercel.app/api?username=huyvu2512&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
-<img align="left" height="auto" width={150} src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu2512&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-<img align="left" height="auto" width={150} src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyvu2512&theme=dark&hide_border=false" alt="profile-radme-generator" />
-<img align="left" height="auto" width={150} src="https://github-contributor-stats.vercel.app/api?username=huyvu2512&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=huyvu2512&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu2512&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyvu2512&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-contributor-stats.vercel.app/api?username=huyvu2512&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="profile-radme-generator" />
